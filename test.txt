@@ -1,1 +1,4 @@
  git command demo
+git init 
+notepad abc.txt
+git add filename
